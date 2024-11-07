@@ -6,7 +6,7 @@ Your interactive PDF assistant powered by cutting-edge Gemini's Generative AI la
 
 ### Step 1: Obtain Your API Key 🔑
 
-To interact with the OpenAI model, you will need an API key. Follow these steps to obtain one:
+To interact with the Gemini model, you will need an API key. Follow these steps to obtain one:
 
 1. Visit the [Gemini Website](https://aistudio.google.com/).
 2. Sign up for an account if you don't already have one.
